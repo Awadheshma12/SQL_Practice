@@ -1,4 +1,4 @@
-###SQL Exploratory data analysis 
+## SQL Exploratory data analysis 
 ###### 1-Created a databse EMPLOYEE
 ###### 2-Created 5 Tables (emp_data, gender, department, location, salary)
 ##### 3-Performed baisc EDA
