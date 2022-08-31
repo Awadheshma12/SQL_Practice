@@ -1,5 +1,6 @@
-## What i will be doing:
-##### I have created a database (EMPLOYEE) and 5 tables emp_data, gender, location, department, salary.
-##### Performed INSERT Operation. (Now i have full fledge database with 5 tables).
-##### Now I have practice some advance queries with the help of these tables.
-##### Queries to practice: Basic Queries + Some advance queries such as SUBQUERY, JOINS, STORED PROCEDURE, SCHEMAS, STRING OPERATION, WINDOW FUNCTIION.
+###SQL Exploratory data analysis
+1-Created a databse EMPLOYEE
+2-Created 5 Tables (emp_data, gender, department, location, salary)
+##### 3-Performed baisc EDA
+##### 4-Performed Intermediate EDA
+##### 5-Performed Advanced Exploratory Data Analysis (EDA)
